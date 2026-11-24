@@ -1,9 +1,5 @@
 ## Hi! I´m Gabriel!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabriel-horstmann&show_icons=true&theme=radical)
-
-![Most Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-horstmann&layout=compact&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-horstmann&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-horstmann&layout=compact&theme=radical" height="170" />
