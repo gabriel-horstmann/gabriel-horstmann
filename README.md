@@ -1,6 +1,6 @@
 ## Hi! I´m Gabriel!
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=gabriel-horstmann&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-horstmann&layout=compact&theme=radical" height="170" />
 </p>
