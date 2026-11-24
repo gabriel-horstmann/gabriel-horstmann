@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-horstmann&layout=compact&theme=dark" height="170" />
 </p>
 
-https://img.shields.io/badge/Linux%20Mint-86BE43.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white
+<img src="https://img.shields.io/badge/Linux%20Mint-86BE43.svg?style=for-the-badge&logo=Linux-Mint&logoColor=white" />
 
 🖥️ Actually i´m working as **IT Supporter** and **IT Infrastructure** at Univali
 
