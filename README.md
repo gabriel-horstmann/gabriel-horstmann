@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi! I´m Gabriel!
 
-<!--
-**gabriel-horstmann/gabriel-horstmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats]
 
-Here are some ideas to get you started:
+(https://github-readme-stats.vercel.app/api?username=gabriel-horstmann&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Most Languages Used]
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-horstmann&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical" height="170" />
+</p>
+
+🖥️ Actually i´m working as **IT Supporter** and **IT Infrastructure** at Univali
+
+🌱 I´m learning about **WEB Development**, **IT Infrastructure**, **Hardware** and **Operational Systems**.
+
