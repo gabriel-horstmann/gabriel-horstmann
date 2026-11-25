@@ -6,7 +6,7 @@
 </p>
 
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
+   <img align="center" alt="LinuxMint-Gabriel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
 </div>
 
 🖥️ Actually i´m working as **IT Supporter** and **IT Infrastructure** at Univali
