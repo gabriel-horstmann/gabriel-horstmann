@@ -6,7 +6,14 @@
 </p>
 
 <div style="display: inline-block"><br>
-   <img align="center" alt="LinuxMint-Gabriel" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
+  <h3>OS That I Use:</h3>
+   <img align="center" alt="LinuxMint-Gabriel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
+   <img align="center" alt="Linux-Gabriel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+   <img align="center" alt="Windows-Gabriel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+  <h3>Languages That I'm Studying and Using:</h3>
+   <img align="center" alt="HTML5-Gabriel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+   <img align="center" alt="CSS3-Gabriel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img align="center" alt="JavaScript-Gabriel" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 </div>
 <br>
 
