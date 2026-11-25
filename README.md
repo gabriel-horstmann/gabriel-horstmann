@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-horstmann&layout=compact&theme=dark" height="170" />
 </p>
 
-<div>
+<div style="display: inline-block"><br>
    <img align="center" alt="LinuxMint-Gabriel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" />
 </div>
 
